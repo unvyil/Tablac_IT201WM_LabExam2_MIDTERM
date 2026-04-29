@@ -1,0 +1,14 @@
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam2_Midterm.csproj.AssemblyReference.cache
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam_MIdterm.Form1.resources
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam2_Midterm.csproj.GenerateResource.cache
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam2_Midterm.csproj.CoreCompileInputs.cache
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\bin\Debug\Tablac_IT201WM_LabExam1_MIdterm.exe.config
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\bin\Debug\Tablac_IT201WM_LabExam1_MIdterm.exe
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\bin\Debug\Tablac_IT201WM_LabExam1_MIdterm.pdb
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam_MIdterm.POS_Admin.resources
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam1_Midterm.Properties.Resources.resources
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam1_MIdterm.exe
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam1_MIdterm.pdb
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam_MIdterm.Ordering_POS.resources
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam1_Midterm.Bundles.resources
+C:\Users\Novy\Downloads\C#\Tablac_IT201WM_LabExam_MIdterm\Tablac_IT201WM_LabExam_MIdterm\obj\Debug\Tablac_IT201WM_LabExam2_MIDTERM.Receipt.resources
